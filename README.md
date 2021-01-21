@@ -1,5 +1,6 @@
 # EnigmasBox.github.io
-EnigmasBox App
+
+Get started: EnigmasBox App - https://catherineolej.github.io/EnigmasBox.github.io/
 
 # Enigmas Box - Final project
 
